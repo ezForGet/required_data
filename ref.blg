@@ -1,0 +1,24 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'ref.blg'
+[55] biber:340> INFO - === Mon May  5, 2025, 18:57:37
+[68] Biber.pm:419> INFO - Reading 'ref.bcf'
+[139] Biber.pm:979> INFO - Found 8 citekeys in bib section 0
+[151] Biber.pm:4419> INFO - Processing section 0
+[158] Biber.pm:4610> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[159] bibtex.pm:1713> INFO - LaTeX decoding ...
+[166] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
+[238] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[238] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[239] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'ru-RU'
+[239] Biber.pm:4245> INFO - No sort tailoring available for locale 'ru-RU'
+[246] bbl.pm:660> INFO - Writing 'ref.bbl' with encoding 'UTF-8'
+[250] bbl.pm:763> INFO - Output to ref.bbl
+[250] Biber.pm:131> WARN - ISBN '1-58113-217-1' in entry 'Ellison2000' is invalid - run biber with '--validate_datamodel' for details.
+[250] Biber.pm:131> WARN - BibTeX subsystem: /tmp/biber_tmp_SbCc/f4d088b3f9f145b5c3058da33afd57d4_164062.utf8, line 12, warning: 1 characters of junk seen at toplevel
+[250] Biber.pm:131> WARN - BibTeX subsystem: /tmp/biber_tmp_SbCc/f4d088b3f9f145b5c3058da33afd57d4_164062.utf8, line 22, warning: 1 characters of junk seen at toplevel
+[250] Biber.pm:131> WARN - BibTeX subsystem: /tmp/biber_tmp_SbCc/f4d088b3f9f145b5c3058da33afd57d4_164062.utf8, line 31, warning: 1 characters of junk seen at toplevel
+[250] Biber.pm:131> WARN - BibTeX subsystem: /tmp/biber_tmp_SbCc/f4d088b3f9f145b5c3058da33afd57d4_164062.utf8, line 41, warning: 1 characters of junk seen at toplevel
+[250] Biber.pm:131> WARN - BibTeX subsystem: /tmp/biber_tmp_SbCc/f4d088b3f9f145b5c3058da33afd57d4_164062.utf8, line 50, warning: 1 characters of junk seen at toplevel
+[250] Biber.pm:131> WARN - BibTeX subsystem: /tmp/biber_tmp_SbCc/f4d088b3f9f145b5c3058da33afd57d4_164062.utf8, line 59, warning: 1 characters of junk seen at toplevel
+[250] Biber.pm:131> WARN - BibTeX subsystem: /tmp/biber_tmp_SbCc/f4d088b3f9f145b5c3058da33afd57d4_164062.utf8, line 69, warning: 1 characters of junk seen at toplevel
+[250] Biber.pm:133> INFO - WARNINGS: 8

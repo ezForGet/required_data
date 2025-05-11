@@ -1,0 +1,306 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Ahn1999}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=d703530a1da1921c57de45b8ed57d5a8}{%
+           family={Ahn},
+           familyi={A\bibinitperiod},
+           given={G.-J.},
+           giveni={G\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=334cda279fd7751dfb472719046f4b97}{%
+           family={Sandhu},
+           familyi={S\bibinitperiod},
+           given={R.\bibnamedelimi S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {ACM Press}%
+      }
+      \strng{namehash}{3ea779e8bf9468c89f6ae571631de950}
+      \strng{fullhash}{3ea779e8bf9468c89f6ae571631de950}
+      \strng{bibnamehash}{3ea779e8bf9468c89f6ae571631de950}
+      \strng{authorbibnamehash}{3ea779e8bf9468c89f6ae571631de950}
+      \strng{authornamehash}{3ea779e8bf9468c89f6ae571631de950}
+      \strng{authorfullhash}{3ea779e8bf9468c89f6ae571631de950}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{RBAC'99: 4th ACM workshop on role-based access control}
+      \field{isbn}{1-58113-180-1}
+      \field{title}{The RSL99 language for role-based separation of duty constraints}
+      \field{year}{1999}
+      \field{pages}{43\bibrangedash 54}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1145/319171.319176
+      \endverb
+    \endentry
+    \entry{Crampton2003}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=fc1daf6aeef08026fd4a4945c11d9815}{%
+           family={Crampton},
+           familyi={C\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACM Press}%
+      }
+      \strng{namehash}{fc1daf6aeef08026fd4a4945c11d9815}
+      \strng{fullhash}{fc1daf6aeef08026fd4a4945c11d9815}
+      \strng{bibnamehash}{fc1daf6aeef08026fd4a4945c11d9815}
+      \strng{authorbibnamehash}{fc1daf6aeef08026fd4a4945c11d9815}
+      \strng{authornamehash}{fc1daf6aeef08026fd4a4945c11d9815}
+      \strng{authorfullhash}{fc1daf6aeef08026fd4a4945c11d9815}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{SACMAT’03: 8th ACM symposium on access control models and technologies}
+      \field{isbn}{1-58113-681-1}
+      \field{title}{Specifying and enforcing constraints in role-based access control}
+      \field{year}{2003}
+      \field{pages}{43\bibrangedash 50}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1145/775412.775419
+      \endverb
+    \endentry
+    \entry{Coyne1991}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=8725c45f43795a455f822e539aad8235}{%
+           family={Coyne},
+           familyi={C\bibinitperiod},
+           given={E.\bibnamedelimi J.},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACM Press}%
+      }
+      \strng{namehash}{8725c45f43795a455f822e539aad8235}
+      \strng{fullhash}{8725c45f43795a455f822e539aad8235}
+      \strng{bibnamehash}{8725c45f43795a455f822e539aad8235}
+      \strng{authorbibnamehash}{8725c45f43795a455f822e539aad8235}
+      \strng{authornamehash}{8725c45f43795a455f822e539aad8235}
+      \strng{authorfullhash}{8725c45f43795a455f822e539aad8235}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 10th ACM Symposium on Access Control Models and Technologies}
+      \field{title}{The use of access control lists in DAC systems}
+      \field{year}{1991}
+      \field{pages}{101\bibrangedash 110}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1145/775412.775419
+      \endverb
+    \endentry
+    \entry{Ellison2000}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=6b4ba69c76712c8160e372ecbf93cd63}{%
+           family={Ellison},
+           familyi={E\bibinitperiod},
+           given={R.\bibnamedelimi J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=1e90d0b70122fb88d816b453b2032664}{%
+           family={Schneier},
+           familyi={S\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACM Press}%
+      }
+      \strng{namehash}{919ba226a68ab5f1e11302bb7fcf785f}
+      \strng{fullhash}{919ba226a68ab5f1e11302bb7fcf785f}
+      \strng{bibnamehash}{919ba226a68ab5f1e11302bb7fcf785f}
+      \strng{authorbibnamehash}{919ba226a68ab5f1e11302bb7fcf785f}
+      \strng{authornamehash}{919ba226a68ab5f1e11302bb7fcf785f}
+      \strng{authorfullhash}{919ba226a68ab5f1e11302bb7fcf785f}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 9th ACM Symposium on Access Control Models and Technologies}
+      \field{isbn}{1-58113-217-1}
+      \field{title}{Ten vulnerabilities of access control models}
+      \field{year}{2000}
+      \field{pages}{152\bibrangedash 160}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1145/348201.348216
+      \endverb
+    \endentry
+    \entry{FerraioloSandhu2002}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=46d1abdfb58177e68366cbb2bcc564be}{%
+           family={Ferraiolo},
+           familyi={F\bibinitperiod},
+           given={D.\bibnamedelimi F.},
+           giveni={D\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=69dce33a1d87d023515176eed34d252b}{%
+           family={Sandhu},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{f18e1cffc3cf385b0d21c40295a90b93}
+      \strng{fullhash}{f18e1cffc3cf385b0d21c40295a90b93}
+      \strng{bibnamehash}{f18e1cffc3cf385b0d21c40295a90b93}
+      \strng{authorbibnamehash}{f18e1cffc3cf385b0d21c40295a90b93}
+      \strng{authornamehash}{f18e1cffc3cf385b0d21c40295a90b93}
+      \strng{authorfullhash}{f18e1cffc3cf385b0d21c40295a90b93}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2002 IEEE Workshop on Information Assurance and Security}
+      \field{title}{Building effective security models for object-oriented systems}
+      \field{year}{2002}
+      \field{pages}{1\bibrangedash 12}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1109/ISSA.2002.1026944
+      \endverb
+    \endentry
+    \entry{HaleNgu1994}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d210a2bd9285066d232ecab17aab79a8}{%
+           family={Hale},
+           familyi={H\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2275576d7285cb319f9a1f5553669cdf}{%
+           family={Ngu},
+           familyi={N\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3c0a6af930490ae43699eb55717a1ebe}
+      \strng{fullhash}{3c0a6af930490ae43699eb55717a1ebe}
+      \strng{bibnamehash}{3c0a6af930490ae43699eb55717a1ebe}
+      \strng{authorbibnamehash}{3c0a6af930490ae43699eb55717a1ebe}
+      \strng{authornamehash}{3c0a6af930490ae43699eb55717a1ebe}
+      \strng{authorfullhash}{3c0a6af930490ae43699eb55717a1ebe}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{2}
+      \field{journaltitle}{Journal of Computer Security}
+      \field{title}{A comparison of discretionary and mandatory access control models}
+      \field{year}{1994}
+      \field{number}{4}
+      \range{number}{1}
+      \field{pages}{229\bibrangedash 243}
+      \range{pages}{15}
+      \field{volume}{2}
+      \range{volume}{1}
+    \endentry
+    \entry{BarkaSandhu2012}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=9d4208904190b7a718f6a7d5f014c575}{%
+           family={Barka},
+           familyi={B\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=69dce33a1d87d023515176eed34d252b}{%
+           family={Sandhu},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{29c63d6c9333df3119f60d1823047aaf}
+      \strng{fullhash}{29c63d6c9333df3119f60d1823047aaf}
+      \strng{bibnamehash}{29c63d6c9333df3119f60d1823047aaf}
+      \strng{authorbibnamehash}{29c63d6c9333df3119f60d1823047aaf}
+      \strng{authornamehash}{29c63d6c9333df3119f60d1823047aaf}
+      \strng{authorfullhash}{29c63d6c9333df3119f60d1823047aaf}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 14th International Conference on Information and Communications Security (ICICS)}
+      \field{title}{A Survey of Attribute-Based Access Control Models and Systems}
+      \field{year}{2012}
+      \field{pages}{345\bibrangedash 360}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1007/978-3-642-35452-3_29
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-642-35452-3_29
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-642-35452-3_29
+      \endverb
+    \endentry
+    \entry{LiYu2006}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=3ab7a15935d7d7bbbf292c3407adc036}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Ninghui},
+           giveni={N\bibinitperiod}}}%
+        {{hash=d513fd1a5890f3ffd95a33db0d0612f9}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Sheng},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{4006cbb039e424eba32fc496db380fa5}
+      \strng{fullhash}{4006cbb039e424eba32fc496db380fa5}
+      \strng{bibnamehash}{4006cbb039e424eba32fc496db380fa5}
+      \strng{authorbibnamehash}{4006cbb039e424eba32fc496db380fa5}
+      \strng{authornamehash}{4006cbb039e424eba32fc496db380fa5}
+      \strng{authorfullhash}{4006cbb039e424eba32fc496db380fa5}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 11th ACM Symposium on Access Control Models and Technologies (SACMAT)}
+      \field{title}{A Survey of Entity-Based Access Control Models and Systems}
+      \field{year}{2006}
+      \field{pages}{125\bibrangedash 136}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1145/1133054.1133081
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
